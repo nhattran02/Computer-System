@@ -4,7 +4,7 @@
 something is to use Euclidean distance. For example, in the figure, for 3 data sets with 3 mean points (greater than
 represent all that data) is A, B, C, point X is closest to point A, so we can classify X into set A.
 
-![The San Juan Mountains are beautiful!](Picture/pic1.png)
+
 
 Write a C program that does the following:
 
